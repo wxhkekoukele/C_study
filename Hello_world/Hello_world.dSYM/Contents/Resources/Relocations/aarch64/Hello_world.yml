@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/xiaohanwang/Desktop/C/C_study/Hello_world/Hello_world'
+relocations:     []
+...
